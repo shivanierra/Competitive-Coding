@@ -11,4 +11,12 @@ My Coding Platforms and programs I solved
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/shivanierra/Competitive-Coding/tree/master/0605-can-place-flowers) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/shivanierra/Competitive-Coding/tree/master/1894-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/shivanierra/Competitive-Coding/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
